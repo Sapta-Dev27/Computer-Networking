@@ -37,6 +37,20 @@
 
 <img width="1391" height="882" alt="image" src="https://github.com/user-attachments/assets/774ac49b-50af-425a-abd5-ef300ec4d26c" />
 
+# 3 . GO BACK N ARQ PROTOCOL : 
+
+<img width="1600" height="643" alt="image" src="https://github.com/user-attachments/assets/0f72f40b-55a4-4a08-b052-5d9c65d519c8" />
+
+<img width="780" height="826" alt="image" src="https://github.com/user-attachments/assets/35e4f12a-2ed7-4062-866b-2cabe6ff7a8f" />
+
+# 4. SELECTIVE REPEAT ARQ PROTOCOL :
+
+<img width="1600" height="747" alt="image" src="https://github.com/user-attachments/assets/1060a955-a990-484f-b21d-9b2595109ba3" />
+
+<img width="875" height="967" alt="image" src="https://github.com/user-attachments/assets/cc8899c5-9c10-4dc4-81c8-fe1f7a75504e" />
+
+
+
 
 
 
