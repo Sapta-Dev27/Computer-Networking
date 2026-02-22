@@ -10,3 +10,7 @@
 # 3 . GO-BACK-N-ARQ PROTOCOL : 
 
 <img width="1164" height="665" alt="image" src="https://github.com/user-attachments/assets/7c8c0399-c20e-447d-9e7a-53a457351c31" />
+
+# 4. Sliding Window Selective ARQ : 
+
+<img width="1227" height="698" alt="Screenshot 2026-02-22 103557" src="https://github.com/user-attachments/assets/1700617b-07dd-48e1-996f-311a4f9ef670" />
